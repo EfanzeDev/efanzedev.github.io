@@ -1,2 +1,2 @@
-# efanzedev.github.io
+# EfanzeDev.github.io
 My portfolio website.
