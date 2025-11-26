@@ -69,22 +69,32 @@
 			background-color: #c3d7ee;
 			border-radius: 15px;
 			padding: 1%;
+			padding-bottom: 4%;
 			/*text-align: center;*/
 		}
 		.gameRow {
 			display: flex;
 			flex-direction: row;
+			padding: 0% 2%;
 		}
 		.gameCard {
-			width: 33%;
-			height: 25%;
+			width: 50%;
+			height: 20%;
 			padding: 16px 16px;
-			background-image: linear-gradient(#626296ff, #62629687);
-			background-repeat: no-repeat;
+			margin: 0% 1%;
 			border-radius: 15px;
 			text-decoration: none;
-			overflow: hidden;
 			color: white;
+			text-shadow: 0px 2px 4px #000000;
+			background-size: 100%;
+			background-repeat: no-repeat;
+			background-position: center;
+		}
+		.gameCardLogo {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 10%;
 		}
 		.footer {
 			
@@ -94,7 +104,7 @@
 
 <body>
 	<div class="topnav">
-		<img src="img/brand/icon.svg" alt="EfanzeDev Logo" style="width:50px;height:50px;">
+		<img src="img/brand/iconMono.svg" style="width:50px;height:50px;">
 		<a href="connect.html">Connect</a>
 		<a href="music.html">Music</a>
 		<a href="games.html">Games</a>
@@ -104,12 +114,17 @@
 	<div class="row">
 		<div class="mainBody">
 			<h1><em>My Games</em></h1>
-			<p>Interactive experiences I've directed and released myself.</p>
+			<p>Video games I've directed and released myself.</p>
 			<div class="gameRow">
-				<a href="https://efanzedev.itch.io/cityscape-technical-showcase" class="gameCard">
-					<img src="img/games/cityscape-thumb.png" style="width:100%;border-radius:15px;">
-					<h3 style="color: white;">Cityscape: Technical Showcase</h3>
-					<p style="color: white;">Unreleased for Windows/Linux PC</p>
+				<a href="https://efanzedev.itch.io/cityscape-technical-showcase" alt="Cityscape: Technical Showcase" class="gameCard" style="background-image: url('img/games/csThumb.png');">
+					<img src="img/games/csLogo.png" class="gameCardLogo" style="width:75%;margin-top:20%;">
+					<p style="color:white;z-index:1;float:left;">A short conceptual demo.</p>
+					<img src="img/itchBadgeLight.svg" alt="Available on itch.io" style="width:20%;float:right;">
+				</a>
+				<a href="https://efanzedev.itch.io/order-up-open-247" alt="Order Up! (Open 24/7)" class="gameCard" style="background-color:#04101e;">
+					<img src="img/games/ouLogo.png" class="gameCardLogo" style="width:66.65%;margin-top:5%;margin-bottom:5%">
+					<p style="color:white;z-index:1;float:left;">A game about a fast food delivery order.</p>
+					<img src="img/itchBadgeLight.svg" alt="Available on itch.io" style="width:20%;float:right;">
 				</a>
 			</div>
 		</div>
