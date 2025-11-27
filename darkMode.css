@@ -6,12 +6,9 @@ body {
 }
 h1 {
 	font-family: "JetBrains Mono", "Menlo", "Consolas", "Courier New", monospace;
-	color: black;
 }
 p {
 	font-family: "JetBrains Mono", "Menlo", "Consolas", "Courier New", monospace;
-	color: black;
-	font-size: 20px;
 }
 .topnav {
 	/*font-family: 'Open Sans', Arial, Helvetica, sans-serif;*/
@@ -49,13 +46,14 @@ p {
 }
 .mainBody {
 	font-family: "JetBrains Mono", "Menlo", "Consolas", "Courier New", monospace;
-	margin: -1% 2% 0%;
+	color: black;
+	font-size: 20px;
+	margin: -1% 2% -1%;
 	z-index: 1;
 	background-color: #c3d7ee;
 	border-radius: 15px;
 	padding: 1%;
 	padding-bottom: 4%;
-	/*text-align: center;*/
 }
 .gameRow {
 	display: flex;
@@ -75,6 +73,9 @@ p {
 	background-repeat: no-repeat;
 	background-position: center;
 }
+.gameCard p {
+	float: left;
+}
 .gameCardLogo {
 	display: block;
 	margin-left: auto;
@@ -82,5 +83,16 @@ p {
 	margin-bottom: 10%;
 }
 .footer {
-	
+	font-family: "JetBrains Mono", "Menlo", "Consolas", "Courier New", monospace;
+	float: right;
+	width: 40%;
+	position: sticky;
+	z-index: 2;
+	overflow: hidden;
+	background-color: #222223;
+	border-radius: 15px;
+	text-align: center;
+	margin-bottom: 2%;
+	color: white;
+	font-size: 12pt;
 }
