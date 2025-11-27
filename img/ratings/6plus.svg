@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="200.00031"
+   viewBox="0 0 300 200.00031"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="6plus.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:zoom="2.7414861"
+     inkscape:cx="150.28345"
+     inkscape:cy="119.64314"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="stroke-width:0;stroke-miterlimit:3"
+       d="M 0,0 H 300 V 200 H 0 Z"
+       inkscape:label="bg"
+       sodipodi:insensitive="true" />
+    <path
+       id="rect2"
+       style="fill:#ffffff;stroke-width:0;stroke-miterlimit:3"
+       d="M 5,40 H 295 V 155 H 5 Z"
+       inkscape:label="inverse"
+       sodipodi:insensitive="true" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:30px;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:3;stroke-dasharray:none"
+       x="149.17502"
+       y="187.25996"
+       id="text4"
+       inkscape:label="by"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="149.17502"
+         y="187.25996"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon Ultra-Bold'">RATED BY DEV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:120px;line-height:120px;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:3;stroke-dasharray:none"
+       x="150.44998"
+       y="143.83023"
+       id="text3"
+       inkscape:label="age"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="150.44998"
+         y="143.83023">6+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:30px;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:3;stroke-dasharray:none"
+       x="149.69252"
+       y="32.25996"
+       id="text2"
+       inkscape:label="suitable"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="149.69252"
+         y="32.25996"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon Ultra-Bold'">SUITABLE FOR</tspan></text>
+  </g>
+</svg>
