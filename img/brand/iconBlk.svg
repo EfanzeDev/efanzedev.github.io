@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="iconMono.svg"
-   inkscape:export-filename="/home/efanze/Pictures/Brand Items/2026/iconMono.png"
+   sodipodi:docname="iconBlk.svg"
+   inkscape:export-filename="/home/efanze/Pictures/Brand Items/2026/iconBlk.png"
    inkscape:export-xdpi="405"
    inkscape:export-ydpi="405"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,7 +27,7 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      inkscape:zoom="1.436055"
-     inkscape:cx="264.962"
+     inkscape:cx="265.65835"
      inkscape:cy="268.79193"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -43,7 +43,7 @@
      id="layer1">
     <path
        id="rect1"
-       style="display:inline;fill:#005eb8;stroke-width:0.204801;fill-opacity:1"
+       style="display:inline;fill:#000000;stroke-width:0.204801;fill-opacity:1"
        inkscape:label="bg (cutout)"
        d="M 41.570589,0 C 18.540365,0 0,18.540365 0,41.570589 V 93.896076 C 0,116.9263 18.540365,135.46666 41.570589,135.46666 h 52.325487 c 23.030224,0 41.570584,-18.54036 41.570584,-41.570584 V 41.570589 C 135.46666,18.540365 116.9263,0 93.896076,0 Z m 9.751859,49.080208 h 6.270935 L 38.146508,86.386457 h -6.270935 l 2.539897,-4.842081 -19.84375,-9.723438 0.873332,-5.675105 19.56573,-8.294585 -0.833024,5.55625 -14.843538,5.675106 17.343644,7.977291 z m 50.760212,0 h 6.31072 l -3.65145,6.985103 20.6375,10.040731 -0.91261,5.675622 -19.56625,8.294584 0.83354,-5.596041 11.74761,-4.842081 c 0.60854,-0.238126 1.27,-0.423231 1.98437,-0.555522 0.71437,-0.15875 1.28302,-0.251044 1.70636,-0.277502 -0.42334,-0.05291 -0.97865,-0.145725 -1.66657,-0.27802 -0.66146,-0.132292 -1.25677,-0.330729 -1.78594,-0.595312 L 102.44026,60.510001 88.985782,86.386457 h -6.310209 z m -38.337714,3.96875 H 81.60432 l -0.833541,5.079793 H 68.745157 l -1.031462,6.509163 h 10.636044 l -0.79375,5.079793 H 66.919945 l -1.15135,7.223332 h 12.025622 l -0.79375,5.079793 H 59.141092 Z" />
   </g>
