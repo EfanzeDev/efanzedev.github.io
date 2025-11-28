@@ -1,0 +1,4 @@
+# TODO
+- [ ] Mobile responsive layout
+- [ ] Engaging Connect page rework
+- [ ] Animation/Transitions
