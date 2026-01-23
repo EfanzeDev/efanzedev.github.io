@@ -98,6 +98,9 @@ p {
 	color: white;
 	font-size: 12pt;
 }
+.footer a {
+	color: LightSkyBlue;
+}
 @media screen and (max-width:600px) {
 	h1 {
 		font-size: 20pt;
@@ -107,7 +110,6 @@ p {
 		width: 100%;
 		margin-top: 0%;
 		height: 10%;
-		position: static;
 	}
 	.topnav a {
 		padding: 7px 8px;
@@ -136,10 +138,11 @@ p {
 	}
 	.footer {
 		font-family: "JetBrains Mono", "Menlo", "Consolas", "Courier New", monospace;
-		width: 40%;
+		width: 80%;
 		border-radius: 15px;
 		text-align: center;
 		margin-bottom: 2%;
 		font-size: 8pt;
+		position: static;
 	}
 }
