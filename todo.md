@@ -1,5 +1,5 @@
 # TODO
-- [X] Mobile responsive layout (I NEED TO REDO THIS)
+- [X] Mobile responsive layout
 - [ ] Engaging Connect page rework
 - [ ] Animation/Transitions
 - [ ] Dark/Light Mode
