@@ -4,6 +4,7 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	height: 100%;
+	margin: 0% 10%;
 }
 .topnav {
 	width: 80%;
@@ -64,14 +65,13 @@ body {
 	color: LightSkyBlue;
 }
 .gameRow {
-	display: flex;
-	flex-direction: row;
-	padding: 0% 2%;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	column-gap: 0.3%;
 }
 .gameCard {
-	width: 50%;
+	width: 95%;
 	padding: 16px 16px;
-	margin: 0% 1%;
 	border-radius: 15px;
 	text-decoration: none;
 	color: white;
@@ -100,6 +100,9 @@ body {
 	padding: 14px 16px;
 }
 @media screen and (max-width:600px) {
+	body {
+		margin: 0% 0%;
+	}
 	h1 {
 		font-size: 20pt;
 	}
@@ -129,14 +132,10 @@ body {
 		font-size: 8pt;
 	}
 	.gameRow {
-		padding: 1% 1%;
-		flex-direction: column;
+		grid-template-columns: 95%;
 		font-size: 8pt;
 	}
 	.gameCard {
-		width: 93%;
-		height: 20%;
-		padding: 8px 8px;
 		margin: 2% 1%;
 		border-radius: 15px;
 	}
