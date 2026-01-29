@@ -66,11 +66,11 @@ body {
 }
 .gameRow {
 	display: grid;
+	width: 99%;
 	grid-template-columns: 50% 50%;
-	column-gap: 0.3%;
+	column-gap: 1%;
 }
 .gameCard {
-	width: 95%;
 	padding: 16px 16px;
 	border-radius: 15px;
 	text-decoration: none;
@@ -90,6 +90,7 @@ body {
 	margin-bottom: 10%;
 }
 .connectGrid {
+	width: 100%;
 	display: grid;
 	grid-template-columns: auto auto auto;
 }
@@ -113,8 +114,8 @@ body {
 		height: 10%;
 	}
 	.topnav a {
-		padding: 7px 8px;
-		margin: 5% 12px;
+		padding: 14px 16px;
+		margin: 4% 0px;
 	}
 	.topnav img {
 		width: 50px;
@@ -132,7 +133,8 @@ body {
 		font-size: 8pt;
 	}
 	.gameRow {
-		grid-template-columns: 95%;
+		width: 100%;
+		grid-template-columns: 100%;
 		font-size: 8pt;
 	}
 	.gameCard {
