@@ -1,5 +1,5 @@
                             All Rights Reserved
-                        Copyright (c) 2025 EfanzeDev
+                        Copyright (c) 2026 EfanzeDev
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
