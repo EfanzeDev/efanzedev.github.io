@@ -1,6 +1,6 @@
 # TODO
-- [X] Mobile responsive layout
-- [ ] Engaging Connect page rework
 - [ ] Add Itch.io scripts to automatically grab game metadata
+- [ ] Engaging Connect page rework
 - [ ] Animation/Transitions
 - [ ] Dark/Light Mode
+- [ ] Site background image
