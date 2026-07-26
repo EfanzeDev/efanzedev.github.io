@@ -154,11 +154,9 @@ body {
 		font-size: 10pt;
 	}
 }
-@media(prefers-reduced-motion: no-preference) { /*And Now, animation shenanigans*/
+/*@media(prefers-reduced-motion: no-preference) {
     @view-transition {
         navigation: auto;
     }
-    .mainBody {
-        view-transition-name: pageContent;
-    }
 }
+I'll figure this out some other day when my browser supports what I'm trying to do*/
