@@ -158,22 +158,3 @@ body {
 @view-transition { /*And Now, animation shenanigans*/
     navigation: auto;
 }
-::view-transition-group(pageContent) {
-    animation-duration: 500ms;
-}
-::view-transition-old(pageContent) {
-    animation-name: fadeOut;
-}
-::view-transition-new(pageContent) {
-    animation-name: fadein;
-}
-@keyframes fadeOut {
-    to {
-        opacity: 0;
-    }
-}
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-}
