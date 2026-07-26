@@ -59,7 +59,6 @@ body {
 	border-radius: 15px;
 	padding: 1%;
 	padding-bottom: 4%;
-	view-transition-name: pageContent;
 }
 .footer {
 	float: right;
@@ -155,6 +154,11 @@ body {
 		font-size: 10pt;
 	}
 }
-@view-transition { /*And Now, animation shenanigans*/
-    navigation: auto;
+@media(prefers-reduced-motion: no-preference) { /*And Now, animation shenanigans*/
+    @view-transition {
+        navigation: auto;
+    }
+    .mainBody {
+        view-transition-name: pageContent;
+    }
 }
