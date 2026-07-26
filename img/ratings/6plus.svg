@@ -7,7 +7,7 @@
    viewBox="0 0 300 200.00031"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="6plus.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,7 +28,7 @@
      inkscape:cx="150.28345"
      inkscape:cy="119.64314"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,40 +51,23 @@
        d="M 5,40 H 295 V 155 H 5 Z"
        inkscape:label="inverse"
        sodipodi:insensitive="true" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:30px;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:3;stroke-dasharray:none"
-       x="149.17502"
-       y="187.25996"
+    <path
+       style="font-weight:800;font-size:30px;line-height:30px;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon Ultra-Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0;stroke-miterlimit:3"
+       d="m 44.789867,187.25996 v -8.4 h 1.065 0.315 l 3.75,8.4 h 5.775 l -4.785,-9.39 c 2.61,-1.23 4.02,-3.51 4.02,-6.45 0,-4.11 -2.775,-6.06 -7.215,-6.06 h -7.86 v 21.9 z m 0,-12.075 v -6.24 h 1.38 c 2.625,0 3.63,0.78 3.63,3.015 0,1.815 -0.705,3.225 -3.81,3.225 z m 29.715025,12.075 -6.435,-21.9 h -5.28 l -6.345,21.9 h 5.025 l 1.14,-4.545 h 5.415 l 1.17,4.545 z m -11.025,-8.055 1.68,-6.72 h 0.225 l 1.74,6.72 z m 24.840026,8.055 v -17.835 h 6.915 v -4.065 h -18.78 v 4.065 h 6.93 v 17.835 z m 8.385025,0 h 13.019997 v -4.065 h -8.085 v -4.92 h 6.21 v -3.855 h -6.21 v -4.995 h 8.085 v -4.065 H 96.704943 Z m 17.250027,0 h 5.775 c 4.725,0 9.78,-1.905 9.78,-11.385 0,-9.48 -5.055,-10.515 -9.78,-10.515 h -5.775 z m 4.935,-3.855 v -14.19 h 0.96 c 2.82,0 4.605,1.32 4.605,6.66 0,5.34 -1.785,7.53 -4.605,7.53 z m 32.56505,3.855 h 7.515 c 4.545,0 8.145,-2.295 8.145,-6.45 0,-3.78 -3.06,-4.98 -6.075,-5.04 v -0.15 c 2.55,-0.255 5.07,-1.95 5.07,-5.46 0,-4.08 -3.24,-4.83 -7.38,-4.8 h -7.275 z m 4.935,-3.45 v -6.135 h 1.17 c 2.865,0 4.5,0.585 4.5,2.925 0,2.505 -1.905,3.21 -4.5,3.21 z m 0,-9.42 v -5.58 h 1.17 c 2.43,0 3.69,0.75 3.69,2.58 0,1.935 -1.38,3 -4.095,3 z m 23.14503,12.87 v -8.685 l 6.645,-13.215 h -4.98 l -3.795,8.82 h -0.225 l -3.87,-8.82 h -5.325 l 6.615,13.215 v 8.685 z m 27.42004,0 h 5.775 c 4.725,0 9.78,-1.905 9.78,-11.385 0,-9.48 -5.055,-10.515 -9.78,-10.515 h -5.775 z m 4.935,-3.855 v -14.19 h 0.96 c 2.82,0 4.605,1.32 4.605,6.66 0,5.34 -1.785,7.53 -4.605,7.53 z m 13.66502,3.855 h 14.37 v -4.065 h -9.435 v -4.92 h 7.56 v -3.855 h -7.56 v -4.995 h 9.435 v -4.065 h -14.37 z m 17.25004,-21.9 6.075,21.9 h 5.25 l 6.015,-21.9 h -4.95 l -3.405,13.98 h -0.24 l -3.495,-13.98 z"
        id="text4"
-       inkscape:label="by"><tspan
-         sodipodi:role="line"
-         id="tspan4"
-         x="149.17502"
-         y="187.25996"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon Ultra-Bold'">RATED BY DEV</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:120px;line-height:120px;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:3;stroke-dasharray:none"
-       x="150.44998"
-       y="143.83023"
+       inkscape:label="by"
+       aria-label="RATED BY DEV" />
+    <path
+       d="m 114.56988,54.850231 c -20.279999,0 -33.419999,11.22 -33.419999,45 0,37.139999 14.34,45.299999 32.999999,45.299999 18.12,0 31.2,-7.56 31.2,-28.86 0,-18.239999 -9.12,-25.559999 -23.76,-25.559999 -8.82,0 -15.3,2.82 -19.98,6.3 0.42,-21 4.98,-26.82 13.26,-26.82 7.14,0 9.3,4.44 10.68,11.04 l 17.7,-1.86 c -0.78,-15.78 -10.68,-24.54 -28.68,-24.54 z m -12.72,53.879999 c 3.84,-2.76 8.46,-4.86 13.44,-4.86 7.74,0 10.8,5.28 10.8,12.18 0,8.52 -4.62,13.38 -12.12,13.38 -7.08,0 -11.16,-4.44 -12.12,-20.7 z m 54.6001,2.88 h 22.5 v 23.1 h 17.46 v -23.1 h 22.44 V 95.350231 h -22.44 v -23.16 h -17.46 v 23.16 h -22.5 z"
        id="text3"
-       inkscape:label="age"><tspan
-         sodipodi:role="line"
-         id="tspan3"
-         x="150.44998"
-         y="143.83023">6+</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:30px;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:3;stroke-dasharray:none"
-       x="149.69252"
-       y="32.25996"
+       style="font-weight:800;font-size:120px;line-height:120px;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:0;stroke-miterlimit:3"
+       inkscape:label="age"
+       aria-label="6+" />
+    <path
+       style="font-weight:800;font-size:30px;line-height:30px;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon Ultra-Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0;stroke-miterlimit:3"
+       d="m 50.782369,17.06496 4.575,-0.465 c 0,-4.38 -2.67,-6.585 -7.5,-6.585 -5.04,0 -7.89,2.31 -7.89,6.375 0,3.93 2.925,5.745 6.225,6.87 3.21,1.08 4.29,1.68 4.29,3.15 0,1.125 -0.645,2.22 -2.925,2.22 -2.28,0 -3.285,-1.155 -3.69,-3.375 l -4.68,0.735 c 0.48,4.935 3.645,6.645 8.01,6.645 4.68,0 8.4,-2.325 8.4,-6.93 0,-4.065 -2.85,-5.445 -6.825,-6.735 -2.145,-0.63 -3.96,-1.155 -3.96,-3.03 0,-1.26 0.81,-2.085 2.76,-2.085 1.95,0 2.925,0.81 3.21,3.21 z m 15.210025,11.385 c -1.365,0 -2.505,-0.405 -2.505,-2.505 v -15.585 h -4.935 v 15.615 c 0,4.71 3.03,6.63 7.44,6.63 4.41,0 7.44,-1.92 7.44,-6.63 v -15.615 h -4.935 v 15.585 c 0,2.1 -1.14,2.505 -2.505,2.505 z m 11.550025,3.81 h 12.165 v -4.065 h -3.6 v -13.77 h 3.6 v -4.065 h -12.165 v 4.065 h 3.63 v 13.77 h -3.63 z m 26.355021,0 v -17.835 h 6.915 v -4.065 H 92.032445 v 4.065 h 6.93 v 17.835 z m 26.92503,0 -6.435,-21.9 h -5.28 l -6.345,21.9 h 5.025 l 1.14,-4.545 h 5.415 l 1.17,4.545 z m -11.025,-8.055 1.68,-6.72 h 0.225 l 1.74,6.72 z m 13.57502,8.055 h 7.515 c 4.545,0 8.145,-2.295 8.145,-6.45 0,-3.78 -3.06,-4.98 -6.075,-5.04 v -0.15 c 2.55,-0.255 5.07,-1.95 5.07,-5.46 0,-4.08 -3.24,-4.83 -7.38,-4.8 h -7.275 z m 4.935,-3.45 v -6.135 h 1.17 c 2.865,0 4.5,0.585 4.5,2.925 0,2.505 -1.905,3.21 -4.5,3.21 z m 0,-9.42 v -5.58 h 1.17 c 2.43,0 3.69,0.75 3.69,2.58 0,1.935 -1.38,3 -4.095,3 z m 13.81503,12.87 h 14.49 v -4.065 h -9.555 v -17.835 h -4.935 z m 18.15003,0 h 14.37 v -4.065 h -9.435 v -4.92 h 7.56 v -3.855 h -7.56 v -4.995 h 9.435 v -4.065 h -14.37 z m 42.13504,0 v -8.07 h 7.47 v -3.915 h -7.47 v -5.85 h 9.345 v -4.065 h -14.28 v 21.9 z m 29.22002,-10.95 c 0,-8.085 -2.97,-11.3099998 -8.22,-11.3099998 -5.25,0 -8.25,3.2249998 -8.25,11.3099998 0,7.665 3,11.31 8.25,11.31 5.25,0 8.22,-3.645 8.22,-11.31 z m -11.415,0 c 0,-5.385 0.885,-7.095 3.195,-7.095 2.325,0 3.165,1.71 3.165,7.095 0,5.37 -0.84,7.095 -3.165,7.095 -2.31,0 -3.195,-1.725 -3.195,-7.095 z m 19.69504,10.95 v -8.4 h 1.065 0.315 l 3.75,8.4 h 5.775 l -4.785,-9.39 c 2.61,-1.23 4.02,-3.51 4.02,-6.45 0,-4.11 -2.775,-6.06 -7.215,-6.06 h -7.86 v 21.9 z m 0,-12.075 v -6.24 h 1.38 c 2.625,0 3.63,0.78 3.63,3.015 0,1.815 -0.705,3.225 -3.81,3.225 z"
        id="text2"
-       inkscape:label="suitable"><tspan
-         sodipodi:role="line"
-         id="tspan2"
-         x="149.69252"
-         y="32.25996"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Monaspace Neon';-inkscape-font-specification:'Monaspace Neon Ultra-Bold'">SUITABLE FOR</tspan></text>
+       inkscape:label="suitable"
+       aria-label="SUITABLE FOR" />
   </g>
 </svg>
